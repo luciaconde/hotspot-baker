@@ -13,4 +13,6 @@ Note that it must be manually started again whenever the computer is switched on
 
 Whenever you want to change the details (name, password) of the network, run HotspotSetup again (only one network can be run at a time, so the new network will override the last one!).
 
-If you want to fully delete the currently existing network, run HotspotDelete.
+If you want to temporarily switch off the hotspot network (but still keep its configuration) run HotspotStop; the network can be re-started anytime afterwards by running HotspotStart. 
+
+If you want to fully delete the currently existing network and all of its configuration, run HotspotDelete.
