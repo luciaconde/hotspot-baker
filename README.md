@@ -1,6 +1,8 @@
 # hotspot-baker
 ## Ultra simple Wi-Fi hotspot creator
 
+Turn your Windows computer into a Wi-Fi hotspot; for instance, to allow connectivity to wireless devices when only Ethernet connections are available, or to extend the reach of a network for devices of lower range.
+
 ### Usage
 
 _Note: all scripts need to be run in admin mode (Right Click > Run as Administrator)_
